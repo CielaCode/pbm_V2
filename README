@@ -1,0 +1,6 @@
+#Code de base pour démarrer le tp 3 image pbm
+#image pbm 800 x 600
+#fonction point(int x, int y)
+#exemple avec 2 points
+#image envoyée sur l'ecran en ascii
+./pbm_V2  >  image.pbm 
